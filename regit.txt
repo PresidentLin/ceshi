@@ -5,3 +5,5 @@ Git is a distributed version control system.
 Git is free software.
 
 git is good de
+
+使用命令git add  添加的内容 是到暂存区的   
